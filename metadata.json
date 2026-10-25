@@ -1,0 +1,6 @@
+{
+  "name": "VisionAd - Lecteur Publicitaire Ordinateur",
+  "description": "Lecteur vidéo publicitaire interactif sous format ordinateur haute définition pour la campagne Le Destin d’Emma (pin.it/7w8K3yQJf).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
